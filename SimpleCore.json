@@ -1,5 +1,5 @@
 {
     "NewestVersion": "1.1.2",
-    "Changes": "Fixed the /fix and /clean scripts from running for all players. | Fixed certain /commands not working correctly.",
+    "Changes": "Fixed the /fix and /clean scripts from running for all players. | Fixed certain /commands not working correctly. | Updated Version Checker to have the current version when up to date!",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimpleCore"
 }
