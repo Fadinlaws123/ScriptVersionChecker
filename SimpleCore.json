@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.1.2",
-    "Changes": "Fixed the /fix and /clean scripts from running for all players. | Fixed certain /commands not working correctly. | Updated Version Checker to have the current version when up to date!",
+    "NewestVersion": "1.1.3",
+    "Changes": "Restricted the ability to pistol whip other players / AI in the server whilst armed.",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimpleCore"
 }
