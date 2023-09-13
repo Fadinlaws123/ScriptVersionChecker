@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.0",
-    "Changes": "Initial Release",
+    "NewestVersion": "1.0.1",
+    "Changes": "Added custom weapon names to the weapon wheel! (Mark 2 supported) | Made it so your radar hides if on foot, however, shows when in a vehicle.",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimpleHUD"
 }
