@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.2",
+    "NewestVersion": "1.0.3",
     "Changes": "Fixed priority cooldown staying active even after showing available. | Fixed priority cooldown not printing itself being available after x amount of time passed.",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimplePriorities"
 }
