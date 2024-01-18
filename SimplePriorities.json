@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.3",
-    "Changes": "Fixed priority cooldown staying active even after showing available. | Fixed priority cooldown not printing itself being available after x amount of time passed.",
+    "NewestVersion": "1.0.4",
+    "Changes": "Added job searching for the peacetime script for both: NAT2K15 Framework | Andyyy's ND_Core (Version 1.0) | Standalone Usage. Fixed Message notifications for city prioity saying \"county\" instead of \"city\".",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimplePriorities"
 }
