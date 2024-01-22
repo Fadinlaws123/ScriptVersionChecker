@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.1",
-    "Changes": "Original Release",
+    "NewestVersion": "1.0.2",
+    "Changes": "Added Map blips that you can enable / disable or add onto. | Added realistic weapon names that you can enable / disable.",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimpleUtilties"
 }
