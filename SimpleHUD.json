@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.4",
-    "Changes": "Major script update.",
+    "NewestVersion": "1.0.5",
+    "Changes": "Fixed the HideRadarOnFoot script not working. | Added economy HUD for ND_Core (NAT2K15 Economy coming soon.)",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimpleHUD"
 }
