@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.5",
-    "Changes": "Added the ability to join / leave active priorties, and much more.",
+    "NewestVersion": "1.0.6",
+    "Changes": "Fixed bug error with versionChecker.lua",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimplePriorities"
 }
