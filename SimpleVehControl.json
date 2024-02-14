@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.0",
-    "Changes": "Original Release",
+    "NewestVersion": "1.0.1",
+    "Changes": "Fixed notifications being displayed to everyone in the server.",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimpleVehControl"
 }
