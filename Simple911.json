@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.2",
-    "Changes": "Merged Fire / EMS 911 into /911 with police. | Fixed typo on logging system for Law Enforcement.",
+    "NewestVersion": "1.0.3",
+    "Changes": "Fixed cooldown function not being in the script 💀",
     "DownloadLocation": "https://github.com/Fadinlaws123/Simple911"
 }
