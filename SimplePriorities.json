@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.7",
-    "Changes": "Fixed GUI error of them overlapping",
+    "NewestVersion": "1.0.8",
+    "Changes": "Fixed leaving prio. giving a script error.",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimplePriorities"
 }
