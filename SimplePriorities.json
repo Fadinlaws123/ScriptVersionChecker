@@ -1,5 +1,5 @@
 {
-    "NewestVersion": "1.0.8",
-    "Changes": "Fixed leaving prio. giving a script error.",
+    "NewestVersion": "1.0.9",
+    "Changes": "Fixed pcd not removing player names from the prio HUD. ",
     "DownloadLocation": "https://github.com/Fadinlaws123/SimplePriorities"
 }
