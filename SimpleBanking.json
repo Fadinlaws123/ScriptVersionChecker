@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "changelog": "Original Release",
-    "download_url": "https://discord.gg/UwcwpquY9K"
+    "version": "1.1",
+    "changelog": "(1) Fixed Export System with SimpleBanking (2) Added Support for SimpleReport",
+    "download_url": "http://simpledevelopments.org/store/simple-banking"
 }
