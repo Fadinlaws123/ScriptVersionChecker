@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "changelog": "Original Release",
+    "version": "1.1",
+    "changelog": "(1) Fixed versionChecker.lua (2) Fixed / Updated ace permission checking.",
     "download_url": "http://simpledevelopments.org/store/simplehudv2"
 }
