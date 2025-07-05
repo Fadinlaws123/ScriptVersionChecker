@@ -1,5 +1,30 @@
 {
-    "version": "1.1",
-    "changelog": "(1) Fixed Export System with SimpleBanking (2) Added Support for SimpleReport",
-    "download_url": "http://simpledevelopments.org/store/simple-banking"
+  "latest_version": "1.2",
+  "download_url": "http://simpledevelopments.org/store/simple-banking",
+  "changelog": [
+    {
+      "version": "1.2",
+      "date": "2025-07-05",
+      "changes": [
+        "Added new export to check if your account is logged in!",
+        "Added Support for SimpleFuel",
+        "Updated Version Checking script"
+      ]
+    },
+      {
+      "version": "1.1",
+      "date": "2025-06-22",
+      "changes": [
+        "Fixed Export System with SimpleBanking",
+        "Added Support for SimpleReport"
+      ]
+    },
+      {
+      "version": "1.0",
+      "date": "2025-06-16",
+      "changes": [
+        "Original Script Release!"
+      ]
+    },
+  ]
 }
