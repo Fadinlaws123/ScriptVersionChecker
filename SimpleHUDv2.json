@@ -1,5 +1,28 @@
 {
-    "version": "1.1",
-    "changelog": "(1) Fixed versionChecker.lua (2) Fixed / Updated ace permission checking.",
-    "download_url": "http://simpledevelopments.org/store/simplehudv2"
+  "latest_version": "1.2",
+  "download_url": "http://simpledevelopments.org/store/simplehudv2",
+  "changelog": [
+    {
+      "version": "1.2",
+      "date": "2025-07-13",
+      "changes": [
+          "Fixed aop hud not syncing with other players."
+      ]
+    },
+    {
+      "version": "1.1",
+      "date": "2025-06-26",
+      "changes": [
+          "Fixed VersionChecker.lua",
+          "Fixed Ace Permissions not loading sometimes."
+      ]
+    },
+    {
+      "version": "1.0",
+      "date": "2025-06-22",
+      "changes": [
+        "Original Script Release!"
+      ]
+    }
+  ]
 }
