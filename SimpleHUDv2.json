@@ -9,7 +9,7 @@
           "Fixed aop hud not syncing with other players."
       ]
     },
-    {
+      {
       "version": "1.1",
       "date": "2025-06-26",
       "changes": [
@@ -17,12 +17,12 @@
           "Fixed Ace Permissions not loading sometimes."
       ]
     },
-    {
+      {
       "version": "1.0",
-      "date": "2025-06-22",
+      "date": "2025-06-16",
       "changes": [
         "Original Script Release!"
       ]
-    }
+    },
   ]
 }
