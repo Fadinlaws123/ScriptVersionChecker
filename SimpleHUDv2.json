@@ -9,7 +9,8 @@
         "Added support for new License System.",
         "Merged version checker into main lua file.",
         "Updated version checking to display docs link.",
-        "Updated console print when resource starts"
+        "Updated console print when resource starts",
+        "Changed how permissions are called when opening the menu."
       ]
     },
     {
