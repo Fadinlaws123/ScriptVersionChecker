@@ -1,5 +1,22 @@
 {
-    "version": "1.0",
-    "changelog": "Original Release",
-    "download_url": "http://simpledevelopments.org/store/simple-report"
+  "latest_version": "1.1",
+  "download_url": "http://simpledevelopments.org/store/simple-report",
+  "changelog": [
+      {
+      "version": "1.1",
+      "date": "2025-07-30",
+      "changes": [
+          "Updated Version Checker",
+          "Added license system support.",
+          "Optimized script.js + notifications.js"
+      ]
+    },
+      {
+      "version": "1.0",
+      "date": "2025-06-16",
+      "changes": [
+        "Original Script Release!"
+      ]
+    },
+  ]
 }
