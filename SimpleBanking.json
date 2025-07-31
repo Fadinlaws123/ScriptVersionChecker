@@ -1,7 +1,16 @@
 {
-  "latest_version": "1.3",
+  "latest_version": "1.4",
   "download_url": "http://simpledevelopments.org/store/simple-banking",
   "changelog": [
+    {
+      "version": "1.4",
+      "date": "2025-07-30",
+      "changes": [
+        "Added support for new License System.",
+        "Merged version checker into main lua file.",
+        "Updated version checking to display docs link."
+      ]
+    },
     {
       "version": "1.3",
       "date": "2025-07-27",
