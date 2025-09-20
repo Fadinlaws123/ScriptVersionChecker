@@ -1,7 +1,15 @@
 {
-  "latest_version": "1.1",
+  "latest_version": "1.2",
   "download_url": "http://simpledevelopments.org/store/simplepolicegarage",
   "changelog": [
+    {
+      "version": "1.2",
+      "date": "09-19-2025",
+      "changes": [
+        "Added support for ESX / QBCore Frameworks",
+        "Added new file for managing vehiclekeys",
+      ]
+    },
     {
       "version": "1.1",
       "date": "2025-07-30",
