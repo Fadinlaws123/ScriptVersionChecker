@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.3 BETA",
+  "latest_version": "1.2 BETA",
   "download_url": "https://simpledevelopments.org/store/SimpleFramework",
   "changelog": [
     {
-      "version": "1.3 BETA",
+      "version": "1.2 BETA",
       "date": "10/29/2025",
       "changes": [
         "Updated Jailing system, now has a real function.",
@@ -15,7 +15,7 @@
       ]
     }
     {
-      "version": "1.2 BETA",
+      "version": "1.1 BETA",
       "date": "10/18/2025",
       "changes": [
         "Fixed error code with server.lua",
