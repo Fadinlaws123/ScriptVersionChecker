@@ -1,7 +1,27 @@
 {
-  "latest_version": "1.0 BETA",
+  "latest_version": "1.3 BETA",
   "download_url": "https://simpledevelopments.org/store/SimpleFramework",
   "changelog": [
+    {
+      "version": "1.3 BETA",
+      "date": "10/29/2025",
+      "changes": [
+        "Updated Jailing system, now has a real function.",
+        "Added new job center to change jobs.",
+        "Added new boss menu for players to manage their jobs. ",
+        "Added exports to the Framework to have external use.",
+        "Fixed Character Management HUD Website + Discord Buttons not working",
+        "Added new configurable settings to the Config.lua"
+      ]
+    }
+    {
+      "version": "1.2 BETA",
+      "date": "10/18/2025",
+      "changes": [
+        "Fixed error code with server.lua",
+        "Fixed error code with client.lua"
+      ]
+    }
     {
       "version": "1.0 BETA",
       "date": "10/15/2025",
