@@ -13,7 +13,7 @@
         "Fixed Character Management HUD Website + Discord Buttons not working",
         "Added new configurable settings to the Config.lua"
       ]
-    }
+    },
     {
       "version": "1.1 BETA",
       "date": "10/18/2025",
@@ -21,7 +21,7 @@
         "Fixed error code with server.lua",
         "Fixed error code with client.lua"
       ]
-    }
+    },
     {
       "version": "1.0 BETA",
       "date": "10/15/2025",
