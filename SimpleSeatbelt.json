@@ -1,7 +1,17 @@
 {
-  "latest_version": "1.0",
+  "latest_version": "1.1",
   "download_url": "https://simpledevelopments.org/store/simpleseatbelt",
   "changelog": [
+    {
+      "version": "1.1",
+      "date": "10/31/2025",
+      "changes": [
+        "Updated License System Integration.",
+        "Fixed Console Print.",
+        "Fixed mismatched names.",
+        "Fixed file code."
+      ]
+    },
     {
       "version": "1.0",
       "date": "10/30/2025",
