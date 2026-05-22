@@ -1,13 +1,13 @@
 {
   "latest_version": "1.0",
-  "download_url": "http://simpledevelopments.org/store/simple-calladmnin",
+  "download_url": "https://simpledevelopments.org/store/simple-calladmin",
   "changelog": [
-      {
-        "version": "1.0",
-        "date": "2025-06-16",
-        "changes": [
-          "Original Script Release!"
+    {
+      "version": "1.0",
+      "date": "2025-06-16",
+      "changes": [
+        "Original Script Release!"
       ]
-    },
+    }
   ]
 }
