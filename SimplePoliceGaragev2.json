@@ -1,7 +1,21 @@
 {
-  "latest_version": "1.0",
+  "latest_version": "1.1",
   "download_url": "https://simpledevelopments.org/store/simplepolicegaragev2",
   "changelog": [
+    {
+      "version": "1.1",
+      "date": "06/27/2026",
+      "changes": [
+        "New modkit system",
+        "New UI theme",
+        "Cleaner system, cleaner UI overall",
+        "New configurable options:",
+        "Choice to either have locked options visible and greyed out with a lock icon, or completely hidden overall.",
+        "New Management UI to control vehicles checked out, allowing members or staff (if restricted) to reset the count of the garage system in case vehicles are /dv or lost in server wipes.",
+        "Comes with either a tab within the UI itself or as a command /vms",
+        "New check-in function for users to return their vehicle either using the main dashboard or using the command /myvehicle",
+      ]
+    },
     {
       "version": "1.0",
       "date": "03/28/2026",
