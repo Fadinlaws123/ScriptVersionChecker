@@ -1,7 +1,14 @@
 {
-  "latest_version": "1.1",
+  "latest_version": "1.2",
   "download_url": "https://github.com/Fadinlaws123/SimpleCarlock/releases",
   "changelog": [
+    {
+      "version": "1.2",
+      "date": "2026-06-30",
+      "changes": [
+        "Minor/Major Update: Check discord for info"
+      ]
+    },
     {
       "version": "1.1",
       "date": "2026-05-01",
