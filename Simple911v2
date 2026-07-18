@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.0.0-alpha.1",
+  "latest_version": "1.0",
   "download_url": "https://github.com/Fadinlaws123/Simple911_v2/releases/latest",
   "changelog": [
     {
-      "version": "2.0.0-alpha.1",
+      "version": "1.0",
       "date": "2026-07-18",
       "changes": [
         "Rebuilt Simple911 around a lightweight responder-focused 911 workflow.",
